@@ -10,9 +10,8 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.556903
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0
   lightness: 1
   brandColors:
@@ -21,6 +20,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5447761
+typography_spectrum: 0.556903
 layout_spectrum: 0.7789179
 name: The New Austinians
