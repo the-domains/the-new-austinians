@@ -1,3 +1,7 @@
+name: The New Austinians
+favicon: null
+layout_spectrum: 0.7789179
+typography_spectrum: 0.556903
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0
-  lightness: 1
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0
   rhythmicContrast: 0.5447761
-typography_spectrum: 0.556903
-layout_spectrum: 0.7789179
-name: The New Austinians
+purpose: []
