@@ -1,8 +1,18 @@
-layout_spectrum: 0.7691231
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.556903
 color:
   saturation: 0.6114739
-  lightness: 0.665112
   brandStrength: 0
   rhythmicContrast: 0.2127302
   brandColors:
@@ -11,4 +21,6 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  lightness: 0.665112
+layout_spectrum: 1
 name: The New Austinians
